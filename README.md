@@ -42,8 +42,10 @@ Acredito que um bom código não apenas funciona, mas resolve problemas reais de
 
 ---
 
-### 📈 Minhas Estatísticas do GitHub
+### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=welington010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <a href="https://github.com/welington010">
+    <img src="https://github-readme-stats.vercel.app/api?username=welington010&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
 </p>
